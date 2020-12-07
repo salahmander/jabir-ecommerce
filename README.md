@@ -5,7 +5,7 @@ https://aljabir.herokuapp.com/
 
 Al-Jabir Market is an E-Commerce site developed using the MERN stack (MongoDB, Express, React-Redux, Node-js) and deployed using Heroku. It works similarly to your typical E-Commerce implementing all functionalities that it would also have.
 
-Tech Stack:
+## Tech Stack:
 
 - React, Redux, Axios, Bootstrap 
 
