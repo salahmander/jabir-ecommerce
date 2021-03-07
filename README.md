@@ -1,19 +1,11 @@
-# Aljabir-Ecommerce
-Al-Jabir E-commerce MERN Stack (Mongodb,Express, React, Node)
+# Al-jabit Market
 
-https://aljabir.herokuapp.com/
+Al-Jabir Market is a full fledged eCommerce application allowing users to search and purchase a variety of different items. The main purpose of this project was to bring together everything I’ve learned from previous projects and my work experience to create a full stack eCommerce web application. What I’ve gained from this project was being about to learn how to plan and build a custom eCommerce platform using React-Redux, Hooks, Node.js, Express and MongoDB, learn about implementing and featuring a shopping cart with PayPal & credit/debit payment and  create admin area to manage customer, products & orders.
 
-Al-Jabir Market is an E-Commerce site developed using the MERN stack (MongoDB, Express, React-Redux, Node-js) and deployed using Heroku. It works similarly to a regular E-Commerce site implementing all functionalities it would typically have.
+### Tech Stack
+Developed using React, React-Hooks, Redux, Bootstrap Node.js, Express and MongoDB(mongoose).
 
-## Tech Stack
-
-- React, Redux, Axios, Bootstrap 
-
-- Node.js, Express.js
-
-- MongoDB
-
-- Heroku
+Deployed using Heroku.
 
 ## Features
 - Full featured shopping cart
@@ -29,3 +21,22 @@ Al-Jabir Market is an E-Commerce site developed using the MERN stack (MongoDB, E
 - Checkout process (shipping, payment method, etc)
 - PayPal / credit card integration
 - Database seeder (products & users)
+
+## Demo
+The site is live at [aljabir-market](https://aljabir.herokuapp.com/)
+
+## Install Dependencies
+
+```
+npm install
+```
+
+## Run App
+
+```
+# Run in dev mode
+npm run dev
+
+# Run in prod mode
+npm start
+```
