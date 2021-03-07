@@ -7,6 +7,9 @@ Developed using React, React-Hooks, Redux, Bootstrap Node.js, Express and MongoD
 
 Deployed using Heroku.
 
+## Demo
+The site is live at [aljabir-market](https://aljabir.herokuapp.com/)
+
 ## Features
 - Full featured shopping cart
 - Product reviews and ratings
@@ -21,9 +24,6 @@ Deployed using Heroku.
 - Checkout process (shipping, payment method, etc)
 - PayPal / credit card integration
 - Database seeder (products & users)
-
-## Demo
-The site is live at [aljabir-market](https://aljabir.herokuapp.com/)
 
 ## Install Dependencies
 
