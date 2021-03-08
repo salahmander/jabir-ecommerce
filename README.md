@@ -1,4 +1,4 @@
-# Al-jabit Market
+# Al-jabir Market
 
 Al-Jabir Market is a full fledged eCommerce application allowing users to search and purchase a variety of different items. The main purpose of this project was to bring together everything I’ve learned from previous projects and my work experience to create a full stack eCommerce web application. What I’ve gained from this project was being about to learn how to plan and build a custom eCommerce platform using React-Redux, Hooks, Node.js, Express and MongoDB, learn about implementing and featuring a shopping cart with PayPal & credit/debit payment and  create admin area to manage customer, products & orders.
 
