@@ -1,42 +1,38 @@
-# Al-jabir Market
+# 🛍️ Al-Jabir Market [Archived]
 
-Al-Jabir Market is a full fledged eCommerce application allowing users to search and purchase a variety of different items. The main purpose of this project was to bring together everything I’ve learned from previous projects and my work experience to create a full stack eCommerce web application. What I’ve gained from this project was being about to learn how to plan and build a custom eCommerce platform using React-Redux, Hooks, Node.js, Express and MongoDB, learn about implementing and featuring a shopping cart with PayPal & credit/debit payment and  create admin area to manage customer, products & orders.
+**Al-Jabir Market** is a **full-fledged eCommerce application** that allows users to **search, browse, and purchase** a variety of products.  
 
-### Tech Stack
-Developed using React, React-Hooks, Redux, Bootstrap Node.js, Express and MongoDB(mongoose).
+This project was built to integrate everything I’ve learned from previous projects and work experience into a **full-stack eCommerce web application**.  
 
-Deployed using Heroku.
+## 🎯 What I Learned  
 
-## Demo
-The site is live at [aljabir-market](https://aljabir.herokuapp.com/)
+Through this project, I gained experience in:  
+✅ **Planning & building** a custom eCommerce platform  
+✅ Implementing a **shopping cart with PayPal & credit/debit payment integration**  
+✅ Using **React-Redux & Hooks** for state management  
+✅ Developing a **secure backend with Node.js, Express & MongoDB**  
+✅ Creating an **admin area** to manage customers, products & orders  
 
-## Features
-- Full featured shopping cart
-- Product reviews and ratings
-- Top products carousel
-- Product pagination
-- Product search feature
-- User profile with orders
-- Admin product management
-- Admin user management
-- Admin Order details page
-- Mark orders as delivered option
-- Checkout process (shipping, payment method, etc)
-- PayPal / credit card integration
-- Database seeder (products & users)
+## 🛠️ Tech Stack  
 
-## Install Dependencies
+- **Frontend:** React, React-Hooks, Redux, Bootstrap  
+- **Backend:** Node.js, Express, MongoDB (Mongoose)  
+- **Authentication & Security:** JWT, Bcrypt.js, Middleware  
+- **Payments:** PayPal & Credit/Debit Card Integration  
+- **Deployment:** Heroku  
 
-```
-npm install
-```
+## 🌟 Features  
 
-## Run App
+✅ Full-featured **shopping cart**  
+✅ **Product reviews & ratings**  
+✅ **Top products carousel**  
+✅ **Product pagination & search**  
+✅ **User profiles with order history**  
+✅ **Admin panel** for managing products, users & orders  
+✅ **Order details & status tracking**  
+✅ **Checkout process** (shipping, payment method, etc.)  
+✅ **PayPal & credit card integration**  
+✅ **Database seeder** for preloading products & users  
 
-```
-# Run in dev mode
-npm run dev
-
-# Run in prod mode
-npm start
-```
+## ⚠️ Status: Archived  
+This project is no longer maintained, but feel free to explore the code.  
